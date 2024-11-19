@@ -31,4 +31,30 @@ dependency between objects so that when one
 object changes state, all of its dependents are
 notified and updated automatically.
 
+1. Strive for loosely coupled designs between objects that interact.\
+
+# Chapter - 3
+
+The Open-Closed Principle:
+   Classes should be open for extension, but closed for
+   modification.
+
+The Decorator Pattern:
+   The Decorator Pattern attaches additional responsibilities to an object dynamically.
+   Decorators provide a flexible alternative to
+   subclassing for extending functionality.
+
+   extends -- Inheritance of class  ________|>
+
+   implements -- Implementation of interface -------|> 
+
+   HAS-A -- interface inside class  _________>
+
+# 2 Chapter - 2
+
+The Observer Pattern defines a one-to-many
+dependency between objects so that when one
+object changes state, all of its dependents are
+notified and updated automatically.
+
 1. Strive for loosely coupled designs between objects that interact.
