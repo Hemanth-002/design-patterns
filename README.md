@@ -44,6 +44,14 @@ The Decorator Pattern:
    Decorators provide a flexible alternative to
    subclassing for extending functionality.
 
+# Chapter - 4
+
+Factory Pattern
+
+Abstract Factory Pattern
+
+Dependency Inversion Principle
+
    extends -- Inheritance of class  ________|>
 
    implements -- Implementation of interface -------|> 
